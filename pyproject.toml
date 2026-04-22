@@ -1,0 +1,11 @@
+[project]
+name = "cliary"
+version = "0.1.0"
+description = "A minimal CLI journal with typing effect"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+cliary = "cliary.cli:main"
+
