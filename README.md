@@ -36,9 +36,10 @@ built my first CLI tool
 ```
 
 ```id="6x8pqm"
-$ cliary search python
+$ cliary search good
 
-2026-04-23.txt: today I learned about pathlib
+2026-04-23.txt: weather is good today
+
 ```
 
 ---
