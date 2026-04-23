@@ -8,6 +8,10 @@ dependencies = [
     "rich>=15.0.0",
 ]
 
+[tool.setuptools.packages.find]
+include = ["cliary*"]
+exclude = ["logs*"]
+
 [project.scripts]
 cliary = "cliary.cli:main"
 
