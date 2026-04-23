@@ -1,6 +1,6 @@
 [project]
 name = "cliary"
-version = "0.1.2"
+version = "0.1.3"
 description = "A minimal CLI journal with typing effect"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -17,4 +17,4 @@ cliary = "cliary.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/vikasAWA/cliary"
-Repository = "https://github.com/viaksAWA/cliary"
+Repository = "https://github.com/vikasAWA/cliary"
